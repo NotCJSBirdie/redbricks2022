@@ -1,0 +1,15 @@
+#brandhero {
+  font-family: "Segoe UI";
+  color: #e82e2c;
+  font-size: 21vw;
+}
+
+#brandsubtitle {
+  font-family: "Segoe UI";
+  color: #e82e2c;
+  font-size: 5vmin;
+}
+
+#borderhero {
+  border-color: #e82e2c;
+}

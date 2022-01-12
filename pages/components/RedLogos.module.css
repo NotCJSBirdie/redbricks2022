@@ -1,0 +1,18 @@
+#logosize {
+  font-size: 10vw;
+}
+
+#redlogosfont {
+  font-size: 25px;
+  color: #e82e2c;
+  font-family: "Segoe UI";
+}
+
+#redlogosborder {
+  border-color: #e82e2c;
+  width: 100minvw;
+}
+
+#svgwidth {
+  width: 4vw;
+}

@@ -1,0 +1,18 @@
+#headerright {
+  font-family: "Segoe UI";
+  color: #e82e2c;
+  font-size: 25px;
+}
+
+#borderbottomheader {
+  border-color: #e82e2c;
+}
+
+#mainlogo {
+  fill: #e82e2c;
+}
+
+#redbricks {
+  width: 40px;
+  height: 30px;
+}

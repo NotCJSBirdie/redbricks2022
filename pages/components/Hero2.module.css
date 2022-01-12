@@ -1,0 +1,30 @@
+#vacationborder {
+  border-radius: 5rem;
+}
+
+#vacationtitle {
+  font-family: "Segoe UI";
+  color: #e82e2c;
+  font-size: 8vw;
+}
+
+#vacationbody {
+  font-family: "Segoe UI";
+  color: #e82e2c;
+  font-size: 25px;
+}
+
+#donotdisturb {
+  color: #e82e2c;
+  font-family: "Segoe UI";
+  font-size: 25px;
+}
+
+#hero2topandbottom {
+  color: #e82e2c;
+  font-family: "Segoe UI";
+}
+
+#hero2border {
+  border-color: #e82e2c;
+}

@@ -1,0 +1,26 @@
+#newslettertitle {
+  color: #e82e2c;
+  font-size: 4vw;
+  font-family: "Segoe UI";
+}
+
+#newsletterinput {
+  color: #e82e2c;
+  font-size: 4vw;
+  font-family: "Segoe UI";
+  opacity: 50%;
+  border-color: #e82e2c;
+}
+
+#newsletterinput::-webkit-input-placeholder {
+  color: #e82e2c;
+}
+
+#newsletterbutton {
+  color: #e82e2c;
+  font-size: 4vw;
+}
+
+#newsletterborder {
+  border-color: #e82e2c;
+}
